@@ -230,4 +230,4 @@ This repository serves as the official landing page for pptPlex. The software is
 **Get the most recent version of pptPlex today!**
 
 ---
-**Last updated:** 2026-09-11 21:35:16 UTC
+**Last updated:** 2026-09-11 23:57:34 UTC
